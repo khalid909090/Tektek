@@ -27,7 +27,7 @@ warn_on_root = 1
 android.api = 35
 android.minapi = 23
 
-android.accept_sdk_license = True
+
 
 android.permissions = INTERNET,READ_MEDIA_VIDEO,READ_MEDIA_IMAGES,WRITE_EXTERNAL_STORAGE
 
